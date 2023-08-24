@@ -1,0 +1,23 @@
+Markowitz's "Portfolio Selection": This is a foundational paper on portfolio optimization and is very relevant to any study in this field.
+
+"The Econometrics of Financial Markets": This book delves into financial econometrics, which can be foundational for your work, especially if you're dealing with time series data.
+
+Fama and French's "The Cross-Section of Expected Stock Returns": This is a foundational paper on asset pricing models. If you're exploring CAPM or similar models, this can be relevant.
+
+"A Machine Learning Approach to Portfolio Optimization": This is directly relevant as it discusses machine learning's role in portfolio optimization.
+
+Tsay's "Analysis of Financial Time Series": Relevant if your work involves analyzing financial time series data.
+
+"An Introduction to Statistical Learning": This provides an overview of statistical and machine learning techniques and can be relevant if you're exploring various ML models.
+
+Sharpe's "Capital asset prices: A theory of market equilibrium under conditions of risk": This is a seminal paper on CAPM and is relevant if you're discussing or comparing CAPM in your project.
+
+"Investments" by Bodie, Kane, and Marcus: A comprehensive book on investments, which might provide background knowledge.
+
+Bengio et al.'s "Learning long-term dependencies with gradient descent is difficult": This is more relevant if you're exploring deep learning techniques like RNNs or LSTMs for your project.
+
+Hastie et al.'s "The Elements of Statistical Learning": A foundational book on statistical learning which can be relevant for the machine learning aspects of your project.
+
+Bailey et al.'s "Pseudo-Mathematics and Financial Charlatanism": This discusses the risks of overfitting in financial models, a consideration if you're using ML models.
+
+Moody et al.'s "Performance functions and reinforcement learning for trading systems and portfolios": This is relevant if you're exploring reinforcement learning techniques for portfolio optimization.

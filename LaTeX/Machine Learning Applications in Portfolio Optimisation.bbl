@@ -1,0 +1,70 @@
+\begin{thebibliography}{10}
+
+\bibitem{bailey2019}
+David~H. Bailey, Jonathan~M. Borwein, Marcos López~de Prado, and Qiji~J. Zhu.
+\newblock Pseudo-mathematics and financial charlatanism: The effects of
+  backtest overfitting on out-of-sample performance.
+\newblock In {\em Notices of the AMS}, volume~61, pages 458--471, 2014.
+
+\bibitem{bengio2003}
+Yoshua Bengio, Patrice Simard, and Paolo Frasconi.
+\newblock Learning long-term dependencies with gradient descent is difficult.
+\newblock In {\em IEEE Transactions on Neural Networks}, volume~5, pages
+  157--166, 1994.
+
+\bibitem{bodie2005}
+Zvi Bodie, Alex Kane, and Alan~J. Marcus.
+\newblock {\em Investments}.
+\newblock McGraw-Hill/Irwin, 2005.
+
+\bibitem{campbell1997}
+John~Y. Campbell, Andrew~W. Lo, and A.~Craig MacKinlay.
+\newblock {\em The Econometrics of Financial Markets}.
+\newblock Princeton University Press, 1997.
+
+\bibitem{fama1992}
+Eugene~F. Fama and Kenneth~R. French.
+\newblock The cross-section of expected stock returns.
+\newblock {\em The Journal of Finance}, 47(2):427--465, 1992.
+
+\bibitem{gu2020}
+Shihao Gu, Bryan Xiong, Hongyang Zhang, and Zhening Zhu.
+\newblock A machine learning approach to portfolio optimization.
+\newblock In {\em Proceedings of the 2020 Conference on Neural Information
+  Processing Systems (NeurIPS)}, 2020.
+
+\bibitem{hastie2009}
+Trevor Hastie, Robert Tibshirani, and Jerome Friedman.
+\newblock The elements of statistical learning: Data mining, inference, and
+  prediction.
+\newblock {\em Springer Series in Statistics}, 2009.
+
+\bibitem{james2013}
+Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
+\newblock {\em An Introduction to Statistical Learning: with Applications in
+  R}.
+\newblock Springer, 2013.
+
+\bibitem{markowitz1952}
+Harry Markowitz.
+\newblock Portfolio selection.
+\newblock {\em The Journal of Finance}, 7(1):77--91, 1952.
+
+\bibitem{moody2001}
+John Moody, Lizhen Wu, Yuansong Liao, and Matthew Saffell.
+\newblock Performance functions and reinforcement learning for trading systems
+  and portfolios.
+\newblock In {\em Journal of Forecasting}, volume~17, pages 441--470, 1998.
+
+\bibitem{sharpe1964}
+William~F. Sharpe.
+\newblock Capital asset prices: A theory of market equilibrium under conditions
+  of risk.
+\newblock {\em The Journal of Finance}, 19(3):425--442, 1964.
+
+\bibitem{tsay2005}
+Ruey~S. Tsay.
+\newblock Analysis of financial time series.
+\newblock {\em Wiley Series in Probability and Statistics}, 2005.
+
+\end{thebibliography}

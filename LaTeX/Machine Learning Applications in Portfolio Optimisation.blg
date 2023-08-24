@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Machine Learning Applications in Portfolio Optimisation.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: references.bib
+Warning--can't use both volume and number fields in bailey2019
+Warning--can't use both volume and number fields in bengio2003
+Warning--can't use both volume and number fields in moody2001
+You've used 12 entries,
+            2118 wiz_defined-function locations,
+            567 strings with 5873 characters,
+and the built_in function-call counts, 4123 in all, are:
+= -- 379
+> -- 198
+< -- 6
++ -- 83
+- -- 66
+* -- 279
+:= -- 675
+add.period$ -- 36
+call.type$ -- 12
+change.case$ -- 66
+chr.to.int$ -- 0
+cite$ -- 15
+duplicate$ -- 172
+empty$ -- 331
+format.name$ -- 66
+if$ -- 878
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 15
+newline$ -- 63
+num.names$ -- 24
+pop$ -- 82
+preamble$ -- 1
+purify$ -- 57
+quote$ -- 0
+skip$ -- 123
+stack$ -- 0
+substring$ -- 206
+swap$ -- 49
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 42
+warning$ -- 3
+while$ -- 33
+width$ -- 14
+write$ -- 131
+(There were 3 warnings)
